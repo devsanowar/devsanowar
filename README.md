@@ -1,4 +1,4 @@
-![I am web developer]
+I am web developer
 
 ### Hi there 👋, Hi, I am Md Sanowar Hossen
 #### I am web developer
