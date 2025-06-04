@@ -6,7 +6,7 @@ Hi, I am Sanowar. I am a full time softwere engineer in Freelance It Software So
 
 Skills:  PHP LARAVEL / PHP / WORDPRESS / JS / HTML / CSS / BOOTSTRAP
 
-- 🔭 I’m currently working on Fiverr 
+- 🔭 I’m currently working on Freelance IT Software Solution Company 
 - 🌱 I’m currently learning PHP and PHP Laravel 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web development 
