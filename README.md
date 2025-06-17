@@ -1,17 +1,32 @@
-### Hi there 👋, Hi, I am Md Sanowar Hossen
-#### I am web developer
+## 👋 Hi, I'm Sanowar
 
+I'm a passionate and dedicated **Software Engineer** currently working full-time at **Freelance IT Software Solution**, where I specialize as a **PHP Laravel Developer**. In addition to my full-time role, I also work as a **WordPress Web Designer** on the **Fiverr marketplace**.
 
-Hi, I am Sanowar. I am a full time softwere engineer in Freelance It Software Solution company. I am Web designer and developer with a bachelor's degree in computer science and more than 2 years of experience in web development.This is a happy news that I build a lot of amazing web applications & websites, progressive website and Ecommerce website providing after sale services.I am creating beautiful easy-to-use applications based on your requirements.
+I hold a **Bachelor’s degree in Computer Science** and have over **2 years of hands-on experience** in web development. I have built a wide range of **dynamic web applications**, **progressive websites**, and **eCommerce platforms** for various clients — all with a focus on functionality, performance, and user experience.
 
-Skills:  PHP LARAVEL / PHP / WORDPRESS / JS / HTML / CSS / BOOTSTRAP
+I take pride in creating beautiful, responsive, and easy-to-use web solutions tailored to individual client requirements, along with **reliable after-sales support**.
 
-- 🔭 I’m currently working on Freelance IT Software Solution Company 
-- 🌱 I’m currently learning PHP and PHP Laravel 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web development 
+### 🛠️ Tech Stack
+- PHP, Laravel, MySQL
+- WordPress, WooCommerce
+- HTML, CSS, Bootstrap, JavaScript, jQuery
+- Git, GitHub
+
+### ✅ What I Do
+- Full-stack Web Application Development
+- WordPress Website Design & Customization
+- eCommerce Development
+- Progressive Web Apps (PWA)
+- Maintenance & After-sales Services
+
+### ✅ Ask me about Web development 
 - 📫 How to reach me: WhatsApp / Facebook / linkedin / Instagram / twitter 
 
+
+### 🌐 Let's Connect
+- Fiverr: [https://www.fiverr.com/users/alina_seema/seller_dashboard]
+- GitHub: [github.com/devsanowar](https://github.com/devsanowar)
+- Email: [sanowarwpneed@gmail.com]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devsanowar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devsanowar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdsanowar.com/)  
 
