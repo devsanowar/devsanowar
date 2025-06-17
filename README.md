@@ -6,11 +6,15 @@ I hold a **Bachelor’s degree in Computer Science** and have over **2 years of 
 
 I take pride in creating beautiful, responsive, and easy-to-use web solutions tailored to individual client requirements, along with **reliable after-sales support**.
 
+---
+
 ### 🛠️ Tech Stack
 - PHP, Laravel, MySQL
 - WordPress, WooCommerce
 - HTML, CSS, Bootstrap, JavaScript, jQuery
 - Git, GitHub
+
+---
 
 ### ✅ What I Do
 - Full-stack Web Application Development
