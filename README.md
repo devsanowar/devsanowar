@@ -12,6 +12,7 @@ I take pride in creating beautiful, responsive, and easy-to-use web solutions ta
 - PHP, Laravel, MySQL
 - WordPress, WooCommerce
 - HTML, CSS, Bootstrap, JavaScript, jQuery
+- Vue Js
 - Git, GitHub
 
 ---
